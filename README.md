@@ -1,2 +1,3 @@
 # project--house-price-pridiction-
-this is my internships project
+This model is trained on house data available on kaggle and  in this repository.
+Random forest and linear regression algorithms are used for regression purposes and the model obtained has the train accuracy of about 97% and test accuracy  of about 86%.
